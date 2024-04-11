@@ -1,0 +1,6 @@
+framework module Pods_SyncMultilanguageIOS {
+  umbrella header "Pods-SyncMultilanguageIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

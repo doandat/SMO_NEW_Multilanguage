@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "54D99AB1-330F-41D3-A895-46E925224D2A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F80AAD99-E917-4FD7-8E3C-6995A6536CD0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SyncMultilanguageIOS/SyncLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "503"
+            endingLineNumber = "503"
+            landmarkName = "readLocalizableFile()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F80AAD99-E917-4FD7-8E3C-6995A6536CD0 - 984068f725d58589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SyncMultilanguageIOS.SyncLanguageVC.readLocalizableFile() -&gt; Swift.Array&lt;SyncMultilanguageIOS.MultilanguagePlistModel&gt;"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/MBiOS/SyncMultilanguageIOSOCB/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "538"
+                  endingLineNumber = "538"
+                  offsetFromSymbolStart = "6092">
+               </Location>
+               <Location
+                  uuid = "F80AAD99-E917-4FD7-8E3C-6995A6536CD0 - 984068f725d58589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SyncMultilanguageIOS.SyncLanguageVC.readLocalizableFile() -&gt; Swift.Array&lt;SyncMultilanguageIOS.MultilanguagePlistModel&gt;"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/MBiOS/SyncMultilanguageIOSOCB/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "538"
+                  endingLineNumber = "538"
+                  offsetFromSymbolStart = "6200">
+               </Location>
+               <Location
+                  uuid = "F80AAD99-E917-4FD7-8E3C-6995A6536CD0 - 2a2f542b14373da1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SyncMultilanguageIOS.SyncLanguageVC.readLocalizableFile() -&gt; Swift.Array&lt;SyncMultilanguageIOS.MultilanguagePlistModel&gt;"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "503"
+                  endingLineNumber = "503"
+                  offsetFromSymbolStart = "6516">
+               </Location>
+               <Location
+                  uuid = "F80AAD99-E917-4FD7-8E3C-6995A6536CD0 - 2a2f542b14373da1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SyncMultilanguageIOS.SyncLanguageVC.readLocalizableFile() -&gt; Swift.Array&lt;SyncMultilanguageIOS.MultilanguagePlistModel&gt;"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "503"
+                  endingLineNumber = "503"
+                  offsetFromSymbolStart = "6200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "653AA7D6-4730-49E2-8CBE-53E574A82B62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SyncMultilanguageIOS/SyncLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "363"
+            endingLineNumber = "363"
+            landmarkName = "getDataStringDictFromGoogleSheet(sheetName:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "653AA7D6-4730-49E2-8CBE-53E574A82B62 - 5d1a47e36f28b09a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/MBiOS/SyncMultilanguageIOSOCB/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "398"
+                  endingLineNumber = "398"
+                  offsetFromSymbolStart = "552">
+               </Location>
+               <Location
+                  uuid = "653AA7D6-4730-49E2-8CBE-53E574A82B62 - 5d1a47e36f28b09a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/MBiOS/SyncMultilanguageIOSOCB/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "398"
+                  endingLineNumber = "398"
+                  offsetFromSymbolStart = "580">
+               </Location>
+               <Location
+                  uuid = "653AA7D6-4730-49E2-8CBE-53E574A82B62 - ef757b3f5eca28a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "363"
+                  endingLineNumber = "363"
+                  offsetFromSymbolStart = "616">
+               </Location>
+               <Location
+                  uuid = "653AA7D6-4730-49E2-8CBE-53E574A82B62 - ef757b3f5eca28a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "363"
+                  endingLineNumber = "363"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F795C90-325C-4366-B0CB-48244D499B01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SyncMultilanguageIOS/SyncLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "368"
+            endingLineNumber = "368"
+            landmarkName = "getDataStringDictFromGoogleSheet(sheetName:completionHandler:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F795C90-325C-4366-B0CB-48244D499B01 - 5d1a47e36f28b7ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/MBiOS/SyncMultilanguageIOSOCB/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "403"
+                  endingLineNumber = "403"
+                  offsetFromSymbolStart = "868">
+               </Location>
+               <Location
+                  uuid = "8F795C90-325C-4366-B0CB-48244D499B01 - 5d1a47e36f28b7ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/MBiOS/SyncMultilanguageIOSOCB/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "403"
+                  endingLineNumber = "403"
+                  offsetFromSymbolStart = "5476">
+               </Location>
+               <Location
+                  uuid = "8F795C90-325C-4366-B0CB-48244D499B01 - ef757b3f5eca2807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "368"
+                  endingLineNumber = "368"
+                  offsetFromSymbolStart = "5528">
+               </Location>
+               <Location
+                  uuid = "8F795C90-325C-4366-B0CB-48244D499B01 - ef757b3f5eca2807"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[4] = Value Promoted from Box, Arg[5] = Value Promoted from Box&gt; of closure #1 (__C.GTLRServiceTicket, Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SyncMultilanguageIOS.SyncLanguageVC.getDataStringDictFromGoogleSheet(sheetName: Swift.String, completionHandler: (Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;, Swift.Array&lt;SyncMultilanguageIOS.MultilanguageStringDictModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "368"
+                  endingLineNumber = "368"
+                  offsetFromSymbolStart = "5484">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "451CC6A9-899B-4CEC-B289-A3E6722C451C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SyncMultilanguageIOS/SyncLanguageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "522"
+            endingLineNumber = "522"
+            landmarkName = "writeNewData(language:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "451CC6A9-899B-4CEC-B289-A3E6722C451C - 858d623517a80ffe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SyncMultilanguageIOS.SyncLanguageVC.writeNewData(language: SyncMultilanguageIOS.LanguageKey) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "522"
+                  endingLineNumber = "522"
+                  offsetFromSymbolStart = "1280">
+               </Location>
+               <Location
+                  uuid = "451CC6A9-899B-4CEC-B289-A3E6722C451C - 858d623517a80ffe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SyncMultilanguageIOS.SyncLanguageVC.writeNewData(language: SyncMultilanguageIOS.LanguageKey) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "522"
+                  endingLineNumber = "522"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "451CC6A9-899B-4CEC-B289-A3E6722C451C - f4c6a7315d52d2db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (SyncMultilanguageIOS.MultilanguageStringDictModel) -&gt; Swift.String in SyncMultilanguageIOS.SyncLanguageVC.writeNewData(language: SyncMultilanguageIOS.LanguageKey) -&gt; ()"
+                  moduleName = "SyncMultilanguageIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/doandat/Documents/OCBGit/OCBMultilanguage/SyncMultilanguageIOS/SyncLanguageVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "522"
+                  endingLineNumber = "522"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
